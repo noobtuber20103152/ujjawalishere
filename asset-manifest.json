@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/ujjawalishere/static/css/main.5a919653.css",
+    "main.js": "/ujjawalishere/static/js/main.5c7e4e12.js",
+    "static/js/787.b117b347.chunk.js": "/ujjawalishere/static/js/787.b117b347.chunk.js",
+    "index.html": "/ujjawalishere/index.html",
+    "main.5a919653.css.map": "/ujjawalishere/static/css/main.5a919653.css.map",
+    "main.5c7e4e12.js.map": "/ujjawalishere/static/js/main.5c7e4e12.js.map",
+    "787.b117b347.chunk.js.map": "/ujjawalishere/static/js/787.b117b347.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5a919653.css",
+    "static/js/main.5c7e4e12.js"
+  ]
+}
