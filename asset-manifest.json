@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/ujjawalishere/static/css/main.87254aa8.css",
-    "main.js": "/ujjawalishere/static/js/main.fa078cfc.js",
+    "main.js": "/ujjawalishere/static/js/main.92d87efb.js",
     "static/js/787.b117b347.chunk.js": "/ujjawalishere/static/js/787.b117b347.chunk.js",
     "index.html": "/ujjawalishere/index.html",
     "main.87254aa8.css.map": "/ujjawalishere/static/css/main.87254aa8.css.map",
-    "main.fa078cfc.js.map": "/ujjawalishere/static/js/main.fa078cfc.js.map",
+    "main.92d87efb.js.map": "/ujjawalishere/static/js/main.92d87efb.js.map",
     "787.b117b347.chunk.js.map": "/ujjawalishere/static/js/787.b117b347.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.87254aa8.css",
-    "static/js/main.fa078cfc.js"
+    "static/js/main.92d87efb.js"
   ]
 }
