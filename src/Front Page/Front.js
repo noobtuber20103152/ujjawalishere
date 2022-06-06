@@ -14,7 +14,7 @@ function Front(props) {
               <button class="bg-transparent w-4/12 my-8 hover:bg-blue-500 text-blue-700 font-semibold hover:text-white py-2 px-4 border border-blue-500 hover:border-transparent rounded">
                 Come on
               </button>
-              <a target="_blank" href="https://drive.google.com/file/d/1f7giOP_9F-3PqegZl4Qv4PKdSVZAK3Zh/view?usp=sharing" className={`flex text-${props.mode === 'black' ? 'white' : 'gray-800'} hover:text-blue-500 justify-center items-center ml-10`}>
+              <a target="_blank" href="https://drive.google.com/file/d/1V6v8XQRbIR6M_FNqgFkP2VXtEuD3i3Bx/view" className={`flex text-${props.mode === 'black' ? 'white' : 'gray-800'} hover:text-blue-500 justify-center items-center ml-10`}>
                 <svg className={`mx-2 `} width="22" height="22" viewBox="0 0 22 22" fill="none" xmlns="http://www.w3.org/2000/svg">
                   <circle cx="11" cy="11" r="11" fill="#3056D3"></circle>
                   <rect x="6.90906" y="13.3636" width="8.18182" height="1.63636" fill="white"></rect>
