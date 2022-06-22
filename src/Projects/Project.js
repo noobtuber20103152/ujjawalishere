@@ -37,6 +37,7 @@ function Project(props) {
         </div>
 
         <div className={`flex justify-around flex-wrap `}>
+            {select.NextJs && <ProjectComponents LinkTrue={false} tag="#NextJS" gitlink="https://github.com/noobtuber20103152/blog" title="Blog website📑" desc="It’s a blog website with user authentication, blog creation , comment section for comment on other’s blogs, separate comment page and profile page corresponding to logged in users where he/she can find blogs written by him/her." thumb="./images/17.png" />}
             {select.NextJs && <ProjectComponents LinkTrue={false} tag="#NextJS" gitlink="https://github.com/noobtuber20103152/eBook" title="eBook store 📑" desc="A Next JS  web app which looks like google book store made with google book store API. It has functionality like google authentication and save search history in mongoDB." thumb="./images/15.png" />}
             {select.NextJs && <ProjectComponents LinkTrue={false} tag="#NextJS" gitlink="https://github.com/noobtuber20103152/nextjs-blog" title="Next JS blog 📝" desc="A blog website built in using Next.JS where you can find cheat sheets about MongoDB, JavaScript, React Js etc." thumb="./images/14.png" />}
             {select.hackthon && <ProjectComponents LinkTrue={false} tag="#MERN" gitlink="https://github.com/noobtuber20103152/Hackmol-3.0" title="Animites - Hackmol 3.0 Finalist 🎆" desc="A MERN stack project made during hackmol 3.0 where you can watch anime live with live chat functionality and comment box." thumb="./images/13.png" />}

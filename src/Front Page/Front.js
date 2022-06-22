@@ -1,6 +1,5 @@
 import React from 'react';
 import Skills from './Skills';
-
 function Front(props) {
   return <>
     <div className={`container-sm bg-gray-700  mx-0 pb-20 w-100 py-10 my-0 `}>
